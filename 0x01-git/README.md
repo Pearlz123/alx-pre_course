@@ -1,1 +1,1 @@
-“Starting to code today, so cool”
+I am making new changes to the c directory
